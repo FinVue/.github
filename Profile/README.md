@@ -14,6 +14,16 @@
   - **FinVue** combines "**Financial 💰**" with "**Vue**," meaning "**view 👀**," to represent a technology-driven platform that provides a clear and insightful look at your **finances 💼**. It goes beyond basic money management tools by leveraging technology to simplify and empower your financial decisions.
 
 
+<h2 align="center">👾🚀 Technologies ⚙️🕹️</h2>
+<p align="center"> Just click one of the 👉 icons 👈 to know what certain technologies we'll be using. </p>
+ <p align="center">
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="50" height="50"/> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="50" height="50"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="50" height="50"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="50" height="50"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="50" height="50"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="50" height="50"/> </a>
+ </p>
 
 |                                                                                      |
 |:------------------------------------------------------------------------------------:|
