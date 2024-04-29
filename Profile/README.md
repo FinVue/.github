@@ -28,7 +28,7 @@
 
   <div align="center">
     <a href="https://github.com/tcker/Fiscal-Harmony" target="_blank">
-    <img src="https://img.shields.io/badge/Fiscal_Harmony_Repo-2a6a6d.svg?style=for-the-badge&logo=google-cloud&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Fiscal_Old_Repo-2a6a6d.svg?style=for-the-badge&logo=google-cloud&logoColor=white" target="_blank" />
   </a>
    <a href="https://github.com/FinVue/Financial_Vue" target="_blank">
     <img src="https://img.shields.io/badge/Financial_Vue_Repo-ab7e06.svg?style=for-the-badge&logo=google-cloud&logoColor=white" target="_blank" />
