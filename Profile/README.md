@@ -25,6 +25,12 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="50" height="50"/> </a>
  </p>
 
+  <div align="center">
+    <a href="https://github.com/tcker/Fiscal-Harmony" target="_blank">
+    <img src="https://img.shields.io/badge/Fiscal_Harmony_Repo-2a6a6d.svg?style=for-the-badge&logo=google-cloud&logoColor=white" target="_blank" />
+  </a>
+  </div>
+
 |                                                                                      |
 |:------------------------------------------------------------------------------------:|
 | In Partial Fulfillment of the Requirements Software Development Project for **ITC123** - **Computer Programming 2 (Intermediate Programming)** to **Prof. May Figueroa** |
