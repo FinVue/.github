@@ -15,7 +15,7 @@
 
 
 <h2 align="center">👾🚀 Technologies ⚙️🕹️</h2>
-<p align="center"> Just click one of the 👉 icons 👈 to know what certain technologies we'll be using. </p>
+<p align="center"> Just click one of the 👉 icons 👈 to know what certain technologies we'll be using. (might add more) </p>
  <p align="center">
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="50" height="50"/> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="50" height="50"/> </a>
