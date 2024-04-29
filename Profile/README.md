@@ -17,5 +17,5 @@
 
 |                                                                                      |
 |:------------------------------------------------------------------------------------:|
-| In Partial Fulfillment of the Requirements Software Development Project for **ITC123** - **Computer Programming 2 (Intermediate Programming)** to Prof. May Figueroa |
+| In Partial Fulfillment of the Requirements Software Development Project for **ITC123** - **Computer Programming 2 (Intermediate Programming)** to **Prof. May Figueroa** |
 
